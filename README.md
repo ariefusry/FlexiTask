@@ -33,12 +33,6 @@ FlexiTask adalah aplikasi to-do list berbasis Flutter yang dirancang untuk memba
    flutter run
    ```
 
-## Kontribusi
-Kami menerima kontribusi dari siapa saja yang ingin membantu meningkatkan aplikasi ini. Silakan lakukan **fork** proyek ini dan ajukan **pull request** dengan perubahan yang Anda buat.
-
-## Lisensi
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file `LICENSE` untuk informasi lebih lanjut.
-
 ---
 **Pengembang:** FlexiTask-Team  
 **Mata Kuliah:** Aplikasi Berbasis Platform  
