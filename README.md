@@ -1,16 +1,40 @@
-# flexitask
+# FlexiTask
 
-A new Flutter project.
+FlexiTask adalah aplikasi to-do list berbasis Flutter yang dirancang untuk membantu pengguna mengelola dan menyelesaikan tugas dengan lebih efektif. Aplikasi ini dikembangkan sebagai bagian dari mata kuliah Aplikasi Berbasis Platform.
 
-## Getting Started
+## Fitur Utama
+- Menambahkan, mengedit, dan menghapus tugas
+- Menandai tugas sebagai selesai
+- Mengatur prioritas tugas
+- Notifikasi pengingat tugas
+- Antarmuka yang responsif dan user-friendly
 
-This project is a starting point for a Flutter application.
+## Teknologi yang Digunakan
+- **Flutter**: Framework utama untuk pengembangan aplikasi
+- **Dart**: Bahasa pemrograman yang digunakan dalam Flutter
+- **Firebase** (opsional): Untuk menyimpan data tugas di cloud
 
-A few resources to get you started if this is your first Flutter project:
+## Instalasi
+1. Pastikan Anda telah menginstal [Flutter](https://flutter.dev/docs/get-started/install).
+2. Clone repositori ini:
+   ```sh
+   git clone https://github.com/username/FlexiTask.git
+   ```
+3. Masuk ke direktori proyek:
+   ```sh
+   cd FlexiTask
+   ```
+4. Jalankan perintah berikut untuk menginstal dependensi:
+   ```sh
+   flutter pub get
+   ```
+5. Jalankan aplikasi di emulator atau perangkat fisik:
+   ```sh
+   flutter run
+   ```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+**Pengembang:** FlexiTask-Team  
+**Mata Kuliah:** Aplikasi Berbasis Platform  
+**Universitas:** Telkom University
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
